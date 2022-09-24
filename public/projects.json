@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "WIMS"
+  },
+  {
+    "id": 2,
+    "name": "Loan Store"
+  },
+  {
+    "id": 3,
+    "name": "Asset Store"
+  },
+  {
+    "id": 4,
+    "name": "Carps"
+  },
+  {
+    "id": 5,
+    "name": "Consumables"
+  },
+  {
+    "id": 6,
+    "name": "Senate Estimates"
+  },
+  {
+    "id": 7,
+    "name": "MALT"
+  }
+]
